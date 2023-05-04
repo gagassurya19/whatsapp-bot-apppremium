@@ -1,0 +1,25 @@
+Ketik nama app untuk melihat info detailnya.
+- cth: netflix
+
+FILM
+» *Netflix*
+» *Disney+*
+» *Amazon*
+» *Apple Tv*
+» *HBO*
+» *Youtube Premium*
+» *Vidio*
+
+MUSIK
+» *Spotify*
+» *Apple Music*
+» *Youtube Music*
+
+GAME
+» *Steam*
+» *Origin*
+
+LAINNYA
+» *chatgpt*
+» *nordvpn*
+» *all* - _menampilkan foto menu_

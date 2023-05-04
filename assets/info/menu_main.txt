@@ -1,0 +1,11 @@
+Perintah dibawah untuk menjalankan bot:
+*[1] !LIST* / nama app
+ - cth: !list netflix atau netflix saja
+
+*[2] !BELI* 
+- cth: !beli netflix 1bulan sharing
+
+*[3] !PERPANJANG* 
+- cth: !perpanjang <no-order>
+
+Gunakan perintah *!bantuan* untuk menghubungi admin bot.
