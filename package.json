@@ -8,6 +8,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "prestart": "sudo apt-get install libatk1.0-0",
     "start": "node server.js",
     "build": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
