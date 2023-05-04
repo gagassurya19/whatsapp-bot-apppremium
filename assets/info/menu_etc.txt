@@ -1,6 +1,0 @@
-Perintah dibawah untuk menjalankan bot:
-*[1] NETFLIX*
-*[2] !PERPANJANGAN*
-*[3] !KOMPLAIN*
-*[4] !LIST APLIKASI*
-*[5] !LAIN*

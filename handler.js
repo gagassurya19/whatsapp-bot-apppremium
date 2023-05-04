@@ -75,7 +75,8 @@ const handleBeliProductMessage = async (client, msg) => {
 
 const handleQrisMessage = async (client, msg) => {
     if (qris.includes(msg.body.toLowerCase())) {
-        const image = new MessageMedia('image/png', getImageContext('qris'));
+        // const image = new MessageMedia('image/png', getImageContext('qris'));
+        const image = await MessageMedia.fromUrl('https://i.ibb.co/5xKTVN8/qris-1.jpg');
         const caption = 'Payment Method: QRIS\n\nScan QRIS diatas untuk pembayaran.\n\nUntuk info lebih lanjut, silahkan hubungi admin ya kak!';
         await msg.reply(image, undefined, { caption: caption });
         countMessages();
